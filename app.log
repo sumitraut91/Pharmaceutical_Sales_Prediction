@@ -1,0 +1,252 @@
+2023-09-06 17:37:46,766 - INFO - Pharmaceutical Sales Prediction Project Started.
+2023-09-06 17:37:46,774 - INFO - Loading and preprocessing data...
+2023-09-06 17:37:48,583 - INFO - Performing data analysis...
+2023-09-06 17:37:50,941 - INFO - Visualizing insights...
+2023-09-06 17:37:54,551 - INFO - Monthly Sales for Each Store Type...
+2023-09-06 17:38:16,763 - INFO - Distribution of Promo in Train and Test
+2023-09-06 17:38:26,110 - INFO - Average Sales on School Holiday vs Non-School Holiday
+2023-09-06 17:38:26,430 - INFO - Sales comparision on State Holiday and Non State Holiday
+2023-09-06 17:38:29,433 - INFO - Average Sales Comparison for Different Holidays
+2023-09-06 17:38:29,791 - INFO - Comparison of Sales and Customers on Days of the Week
+2023-09-06 17:38:30,386 - INFO - Sales behaviour for Christmas season 2013-2014
+2023-09-06 17:38:31,298 - INFO - Sales behaviour for Christmas season 2014-2015
+2023-09-06 17:38:31,944 - INFO - Correlation between sales and number of customers
+2023-09-06 17:38:38,236 - INFO - Effect of Promosion on Existing Customers and Sales
+2023-09-06 17:38:39,094 - INFO - Calculate percentage increase in sales for each month
+2023-09-06 17:38:40,022 - INFO - Calculate average sales for promotion and non-promotion periods
+2023-09-06 17:38:40,548 - INFO - Trends of customer behavior during store open and closing times
+2023-09-06 17:38:41,266 - INFO - Comparison of Average Sales on Weekdays and Weekends
+2023-09-06 17:38:42,629 - INFO - Check how the assortment type affects sales
+2023-09-06 17:38:47,663 - INFO - Correlation between sales and CompetitionDistance
+2023-09-06 17:38:53,064 - INFO - Average Sales Before vs After Competition Opening
+2023-09-06 17:39:26,567 - INFO - Yearly,Monthly and Daily Sales Trends of Store Types A, B, C, and D
+2023-09-06 17:39:36,094 - INFO - Daily Sales Trend for Each Year
+2023-09-06 17:39:37,965 - INFO - Daily Customers Trend for Each Year
+2023-09-06 17:39:38,966 - INFO - End of Task 1 - Exploration of customer purchasing behaviour
+2023-09-06 17:39:38,968 - INFO - Task-2 Prediction of store sales started
+2023-09-06 17:39:38,971 - INFO - Importing important libraries
+2023-09-06 17:39:38,972 - INFO - Data preprocessing
+2023-09-06 17:39:38,974 - INFO - Extracting year, month, day, and week of the year in both train and test data
+2023-09-06 17:39:38,976 - INFO - Converting Categorical data into numerical data
+2023-09-06 17:39:38,977 - INFO - Created train and test splits the right way for time series data
+2023-09-06 17:39:38,979 - INFO - Predict the model with Random Forest Regressor and find out the prediction score
+2023-09-06 17:39:38,981 - INFO - 2.2 - Building models with sklearn pipelines
+2023-09-06 17:39:38,983 - INFO - Creating a pipeline where the data is first scaled before model training
+2023-09-06 17:39:38,985 - INFO - 2.3 - Choose a loss function
+2023-09-06 17:39:38,986 - INFO - 2.4 Post Prediction analysis
+2023-09-06 17:39:38,988 - INFO - 2.5 Serialization done for easy tracking of prediction which have good score
+2023-09-06 17:39:39,208 - INFO - Pharmaceutical Sales Prediction Project Started.
+2023-09-06 17:39:39,208 - INFO - Pharmaceutical Sales Prediction Project Started.
+2023-09-06 17:39:39,219 - INFO - Loading and preprocessing data...
+2023-09-06 17:39:39,219 - INFO - Loading and preprocessing data...
+2023-09-06 17:39:52,949 - INFO - Performing data analysis...
+2023-09-06 17:39:52,949 - INFO - Performing data analysis...
+2023-09-06 17:39:56,243 - INFO - Visualizing insights...
+2023-09-06 17:39:56,243 - INFO - Visualizing insights...
+2023-09-06 17:39:57,568 - INFO - Monthly Sales for Each Store Type...
+2023-09-06 17:39:57,568 - INFO - Monthly Sales for Each Store Type...
+2023-09-06 17:39:57,938 - INFO - Distribution of Promo in Train and Test
+2023-09-06 17:39:57,938 - INFO - Distribution of Promo in Train and Test
+2023-09-06 17:40:08,735 - INFO - Average Sales on School Holiday vs Non-School Holiday
+2023-09-06 17:40:08,735 - INFO - Average Sales on School Holiday vs Non-School Holiday
+2023-09-06 17:40:09,043 - INFO - Sales comparision on State Holiday and Non State Holiday
+2023-09-06 17:40:09,043 - INFO - Sales comparision on State Holiday and Non State Holiday
+2023-09-06 17:40:16,692 - INFO - Average Sales Comparison for Different Holidays
+2023-09-06 17:40:16,692 - INFO - Average Sales Comparison for Different Holidays
+2023-09-06 17:40:17,179 - INFO - Comparison of Sales and Customers on Days of the Week
+2023-09-06 17:40:17,179 - INFO - Comparison of Sales and Customers on Days of the Week
+2023-09-06 17:40:17,850 - INFO - Sales behaviour for Christmas season 2013-2014
+2023-09-06 17:40:17,850 - INFO - Sales behaviour for Christmas season 2013-2014
+2023-09-06 17:40:19,554 - INFO - Sales behaviour for Christmas season 2014-2015
+2023-09-06 17:40:19,554 - INFO - Sales behaviour for Christmas season 2014-2015
+2023-09-06 17:40:20,213 - INFO - Correlation between sales and number of customers
+2023-09-06 17:40:20,213 - INFO - Correlation between sales and number of customers
+2023-09-06 17:40:26,047 - INFO - Effect of Promosion on Existing Customers and Sales
+2023-09-06 17:40:26,047 - INFO - Effect of Promosion on Existing Customers and Sales
+2023-09-06 17:40:27,002 - INFO - Calculate percentage increase in sales for each month
+2023-09-06 17:40:27,002 - INFO - Calculate percentage increase in sales for each month
+2023-09-06 17:40:27,945 - INFO - Calculate average sales for promotion and non-promotion periods
+2023-09-06 17:40:27,945 - INFO - Calculate average sales for promotion and non-promotion periods
+2023-09-06 17:40:28,335 - INFO - Trends of customer behavior during store open and closing times
+2023-09-06 17:40:28,335 - INFO - Trends of customer behavior during store open and closing times
+2023-09-06 17:40:29,235 - INFO - Comparison of Average Sales on Weekdays and Weekends
+2023-09-06 17:40:29,235 - INFO - Comparison of Average Sales on Weekdays and Weekends
+2023-09-06 17:40:30,395 - INFO - Check how the assortment type affects sales
+2023-09-06 17:40:30,395 - INFO - Check how the assortment type affects sales
+2023-09-06 17:40:32,191 - INFO - Correlation between sales and CompetitionDistance
+2023-09-06 17:40:32,191 - INFO - Correlation between sales and CompetitionDistance
+2023-09-06 17:40:33,291 - INFO - Average Sales Before vs After Competition Opening
+2023-09-06 17:40:33,291 - INFO - Average Sales Before vs After Competition Opening
+2023-09-06 17:41:01,641 - INFO - Yearly,Monthly and Daily Sales Trends of Store Types A, B, C, and D
+2023-09-06 17:41:01,641 - INFO - Yearly,Monthly and Daily Sales Trends of Store Types A, B, C, and D
+2023-09-06 17:41:12,682 - INFO - Daily Sales Trend for Each Year
+2023-09-06 17:41:12,682 - INFO - Daily Sales Trend for Each Year
+2023-09-06 17:41:14,378 - INFO - Daily Customers Trend for Each Year
+2023-09-06 17:41:14,378 - INFO - Daily Customers Trend for Each Year
+2023-09-06 17:41:15,380 - INFO - End of Task 1 - Exploration of customer purchasing behaviour
+2023-09-06 17:41:15,380 - INFO - End of Task 1 - Exploration of customer purchasing behaviour
+2023-09-06 17:41:15,384 - INFO - Task-2 Prediction of store sales started
+2023-09-06 17:41:15,384 - INFO - Task-2 Prediction of store sales started
+2023-09-06 17:41:15,387 - INFO - Importing important libraries
+2023-09-06 17:41:15,387 - INFO - Importing important libraries
+2023-09-06 17:41:15,393 - INFO - Data preprocessing
+2023-09-06 17:41:15,393 - INFO - Data preprocessing
+2023-09-06 17:41:15,396 - INFO - Extracting year, month, day, and week of the year in both train and test data
+2023-09-06 17:41:15,396 - INFO - Extracting year, month, day, and week of the year in both train and test data
+2023-09-06 17:41:15,399 - INFO - Converting Categorical data into numerical data
+2023-09-06 17:41:15,399 - INFO - Converting Categorical data into numerical data
+2023-09-06 17:41:15,402 - INFO - Created train and test splits the right way for time series data
+2023-09-06 17:41:15,402 - INFO - Created train and test splits the right way for time series data
+2023-09-06 17:41:15,405 - INFO - Predict the model with Random Forest Regressor and find out the prediction score
+2023-09-06 17:41:15,405 - INFO - Predict the model with Random Forest Regressor and find out the prediction score
+2023-09-06 17:41:15,409 - INFO - 2.2 - Building models with sklearn pipelines
+2023-09-06 17:41:15,409 - INFO - 2.2 - Building models with sklearn pipelines
+2023-09-06 17:41:15,412 - INFO - Creating a pipeline where the data is first scaled before model training
+2023-09-06 17:41:15,412 - INFO - Creating a pipeline where the data is first scaled before model training
+2023-09-06 17:41:15,416 - INFO - 2.3 - Choose a loss function
+2023-09-06 17:41:15,416 - INFO - 2.3 - Choose a loss function
+2023-09-06 17:41:15,420 - INFO - 2.4 Post Prediction analysis
+2023-09-06 17:41:15,420 - INFO - 2.4 Post Prediction analysis
+2023-09-06 17:41:15,423 - INFO - 2.5 Serialization done for easy tracking of prediction which have good score
+2023-09-06 17:41:15,423 - INFO - 2.5 Serialization done for easy tracking of prediction which have good score
+2023-09-06 17:41:15,943 - INFO - Pharmaceutical Sales Prediction Project Started.
+2023-09-06 17:41:15,943 - INFO - Pharmaceutical Sales Prediction Project Started.
+2023-09-06 17:41:15,943 - INFO - Pharmaceutical Sales Prediction Project Started.
+2023-09-06 17:41:15,955 - INFO - Loading and preprocessing data...
+2023-09-06 17:41:15,955 - INFO - Loading and preprocessing data...
+2023-09-06 17:41:15,955 - INFO - Loading and preprocessing data...
+2023-09-06 17:41:30,487 - INFO - Performing data analysis...
+2023-09-06 17:41:30,487 - INFO - Performing data analysis...
+2023-09-06 17:41:30,487 - INFO - Performing data analysis...
+2023-09-06 17:41:33,947 - INFO - Visualizing insights...
+2023-09-06 17:41:33,947 - INFO - Visualizing insights...
+2023-09-06 17:41:33,947 - INFO - Visualizing insights...
+2023-09-06 17:41:35,147 - INFO - Monthly Sales for Each Store Type...
+2023-09-06 17:41:35,147 - INFO - Monthly Sales for Each Store Type...
+2023-09-06 17:41:35,147 - INFO - Monthly Sales for Each Store Type...
+2023-09-06 17:41:35,474 - INFO - Distribution of Promo in Train and Test
+2023-09-06 17:41:35,474 - INFO - Distribution of Promo in Train and Test
+2023-09-06 17:41:35,474 - INFO - Distribution of Promo in Train and Test
+2023-09-06 17:41:44,761 - INFO - Average Sales on School Holiday vs Non-School Holiday
+2023-09-06 17:41:44,761 - INFO - Average Sales on School Holiday vs Non-School Holiday
+2023-09-06 17:41:44,761 - INFO - Average Sales on School Holiday vs Non-School Holiday
+2023-09-06 17:41:45,064 - INFO - Sales comparision on State Holiday and Non State Holiday
+2023-09-06 17:41:45,064 - INFO - Sales comparision on State Holiday and Non State Holiday
+2023-09-06 17:41:45,064 - INFO - Sales comparision on State Holiday and Non State Holiday
+2023-09-06 17:41:48,352 - INFO - Average Sales Comparison for Different Holidays
+2023-09-06 17:41:48,352 - INFO - Average Sales Comparison for Different Holidays
+2023-09-06 17:41:48,352 - INFO - Average Sales Comparison for Different Holidays
+2023-09-06 17:41:48,729 - INFO - Comparison of Sales and Customers on Days of the Week
+2023-09-06 17:41:48,729 - INFO - Comparison of Sales and Customers on Days of the Week
+2023-09-06 17:41:48,729 - INFO - Comparison of Sales and Customers on Days of the Week
+2023-09-06 17:41:49,402 - INFO - Sales behaviour for Christmas season 2013-2014
+2023-09-06 17:41:49,402 - INFO - Sales behaviour for Christmas season 2013-2014
+2023-09-06 17:41:49,402 - INFO - Sales behaviour for Christmas season 2013-2014
+2023-09-06 17:41:51,661 - INFO - Sales behaviour for Christmas season 2014-2015
+2023-09-06 17:41:51,661 - INFO - Sales behaviour for Christmas season 2014-2015
+2023-09-06 17:41:51,661 - INFO - Sales behaviour for Christmas season 2014-2015
+2023-09-06 17:41:52,270 - INFO - Correlation between sales and number of customers
+2023-09-06 17:41:52,270 - INFO - Correlation between sales and number of customers
+2023-09-06 17:41:52,270 - INFO - Correlation between sales and number of customers
+2023-09-06 17:41:58,441 - INFO - Effect of Promosion on Existing Customers and Sales
+2023-09-06 17:41:58,441 - INFO - Effect of Promosion on Existing Customers and Sales
+2023-09-06 17:41:58,441 - INFO - Effect of Promosion on Existing Customers and Sales
+2023-09-06 17:41:59,958 - INFO - Calculate percentage increase in sales for each month
+2023-09-06 17:41:59,958 - INFO - Calculate percentage increase in sales for each month
+2023-09-06 17:41:59,958 - INFO - Calculate percentage increase in sales for each month
+2023-09-06 17:42:01,388 - INFO - Calculate average sales for promotion and non-promotion periods
+2023-09-06 17:42:01,388 - INFO - Calculate average sales for promotion and non-promotion periods
+2023-09-06 17:42:01,388 - INFO - Calculate average sales for promotion and non-promotion periods
+2023-09-06 17:42:01,780 - INFO - Trends of customer behavior during store open and closing times
+2023-09-06 17:42:01,780 - INFO - Trends of customer behavior during store open and closing times
+2023-09-06 17:42:01,780 - INFO - Trends of customer behavior during store open and closing times
+2023-09-06 17:42:02,953 - INFO - Comparison of Average Sales on Weekdays and Weekends
+2023-09-06 17:42:02,953 - INFO - Comparison of Average Sales on Weekdays and Weekends
+2023-09-06 17:42:02,953 - INFO - Comparison of Average Sales on Weekdays and Weekends
+2023-09-06 17:42:04,269 - INFO - Check how the assortment type affects sales
+2023-09-06 17:42:04,269 - INFO - Check how the assortment type affects sales
+2023-09-06 17:42:04,269 - INFO - Check how the assortment type affects sales
+2023-09-06 17:42:06,035 - INFO - Correlation between sales and CompetitionDistance
+2023-09-06 17:42:06,035 - INFO - Correlation between sales and CompetitionDistance
+2023-09-06 17:42:06,035 - INFO - Correlation between sales and CompetitionDistance
+2023-09-06 17:42:07,181 - INFO - Average Sales Before vs After Competition Opening
+2023-09-06 17:42:07,181 - INFO - Average Sales Before vs After Competition Opening
+2023-09-06 17:42:07,181 - INFO - Average Sales Before vs After Competition Opening
+2023-09-06 17:42:33,572 - INFO - Yearly,Monthly and Daily Sales Trends of Store Types A, B, C, and D
+2023-09-06 17:42:33,572 - INFO - Yearly,Monthly and Daily Sales Trends of Store Types A, B, C, and D
+2023-09-06 17:42:33,572 - INFO - Yearly,Monthly and Daily Sales Trends of Store Types A, B, C, and D
+2023-09-06 17:42:37,795 - INFO - Daily Sales Trend for Each Year
+2023-09-06 17:42:37,795 - INFO - Daily Sales Trend for Each Year
+2023-09-06 17:42:37,795 - INFO - Daily Sales Trend for Each Year
+2023-09-06 17:42:38,925 - INFO - Daily Customers Trend for Each Year
+2023-09-06 17:42:38,925 - INFO - Daily Customers Trend for Each Year
+2023-09-06 17:42:38,925 - INFO - Daily Customers Trend for Each Year
+2023-09-06 17:42:39,900 - INFO - End of Task 1 - Exploration of customer purchasing behaviour
+2023-09-06 17:42:39,900 - INFO - End of Task 1 - Exploration of customer purchasing behaviour
+2023-09-06 17:42:39,900 - INFO - End of Task 1 - Exploration of customer purchasing behaviour
+2023-09-06 17:42:39,906 - INFO - Task-2 Prediction of store sales started
+2023-09-06 17:42:39,906 - INFO - Task-2 Prediction of store sales started
+2023-09-06 17:42:39,906 - INFO - Task-2 Prediction of store sales started
+2023-09-06 17:42:39,911 - INFO - Importing important libraries
+2023-09-06 17:42:39,911 - INFO - Importing important libraries
+2023-09-06 17:42:39,911 - INFO - Importing important libraries
+2023-09-06 17:42:39,920 - INFO - Data preprocessing
+2023-09-06 17:42:39,920 - INFO - Data preprocessing
+2023-09-06 17:42:39,920 - INFO - Data preprocessing
+2023-09-06 17:42:39,930 - INFO - Extracting year, month, day, and week of the year in both train and test data
+2023-09-06 17:42:39,930 - INFO - Extracting year, month, day, and week of the year in both train and test data
+2023-09-06 17:42:39,930 - INFO - Extracting year, month, day, and week of the year in both train and test data
+2023-09-06 17:42:39,935 - INFO - Converting Categorical data into numerical data
+2023-09-06 17:42:39,935 - INFO - Converting Categorical data into numerical data
+2023-09-06 17:42:39,935 - INFO - Converting Categorical data into numerical data
+2023-09-06 17:42:39,942 - INFO - Created train and test splits the right way for time series data
+2023-09-06 17:42:39,942 - INFO - Created train and test splits the right way for time series data
+2023-09-06 17:42:39,942 - INFO - Created train and test splits the right way for time series data
+2023-09-06 17:42:39,949 - INFO - Predict the model with Random Forest Regressor and find out the prediction score
+2023-09-06 17:42:39,949 - INFO - Predict the model with Random Forest Regressor and find out the prediction score
+2023-09-06 17:42:39,949 - INFO - Predict the model with Random Forest Regressor and find out the prediction score
+2023-09-06 17:42:39,964 - INFO - 2.2 - Building models with sklearn pipelines
+2023-09-06 17:42:39,964 - INFO - 2.2 - Building models with sklearn pipelines
+2023-09-06 17:42:39,964 - INFO - 2.2 - Building models with sklearn pipelines
+2023-09-06 17:42:39,972 - INFO - Creating a pipeline where the data is first scaled before model training
+2023-09-06 17:42:39,972 - INFO - Creating a pipeline where the data is first scaled before model training
+2023-09-06 17:42:39,972 - INFO - Creating a pipeline where the data is first scaled before model training
+2023-09-06 17:42:39,979 - INFO - 2.3 - Choose a loss function
+2023-09-06 17:42:39,979 - INFO - 2.3 - Choose a loss function
+2023-09-06 17:42:39,979 - INFO - 2.3 - Choose a loss function
+2023-09-06 17:42:39,986 - INFO - 2.4 Post Prediction analysis
+2023-09-06 17:42:39,986 - INFO - 2.4 Post Prediction analysis
+2023-09-06 17:42:39,986 - INFO - 2.4 Post Prediction analysis
+2023-09-06 17:42:39,993 - INFO - 2.5 Serialization done for easy tracking of prediction which have good score
+2023-09-06 17:42:39,993 - INFO - 2.5 Serialization done for easy tracking of prediction which have good score
+2023-09-06 17:42:39,993 - INFO - 2.5 Serialization done for easy tracking of prediction which have good score
+2023-09-06 17:42:39,999 - INFO - Save the Model into pickle file
+2023-09-06 17:42:39,999 - INFO - Save the Model into pickle file
+2023-09-06 17:42:39,999 - INFO - Save the Model into pickle file
+2023-09-06 17:42:40,004 - INFO - Task 2.6 - Building model with Deep Learning
+2023-09-06 17:42:40,004 - INFO - Task 2.6 - Building model with Deep Learning
+2023-09-06 17:42:40,004 - INFO - Task 2.6 - Building model with Deep Learning
+2023-09-06 17:42:40,011 - INFO - 2.6.1. Isolate the Rossmann Store Sales dataset into time series data
+2023-09-06 17:42:40,011 - INFO - 2.6.1. Isolate the Rossmann Store Sales dataset into time series data
+2023-09-06 17:42:40,011 - INFO - 2.6.1. Isolate the Rossmann Store Sales dataset into time series data
+2023-09-06 17:42:40,019 - INFO - 2.6.1. Check weather the data is stationary or not
+2023-09-06 17:42:40,019 - INFO - 2.6.1. Check weather the data is stationary or not
+2023-09-06 17:42:40,019 - INFO - 2.6.1. Check weather the data is stationary or not
+2023-09-06 17:42:40,024 - INFO - Differenced the sales data
+2023-09-06 17:42:40,024 - INFO - Differenced the sales data
+2023-09-06 17:42:40,024 - INFO - Differenced the sales data
+2023-09-06 17:42:40,029 - INFO - Check for autocorrelation and partial autocorrelation of data 
+2023-09-06 17:42:40,029 - INFO - Check for autocorrelation and partial autocorrelation of data 
+2023-09-06 17:42:40,029 - INFO - Check for autocorrelation and partial autocorrelation of data 
+2023-09-06 17:42:40,034 - INFO - 5. Transform the time series data into supervised learning data by creating a new y(target) column
+2023-09-06 17:42:40,034 - INFO - 5. Transform the time series data into supervised learning data by creating a new y(target) column
+2023-09-06 17:42:40,034 - INFO - 5. Transform the time series data into supervised learning data by creating a new y(target) column
+2023-09-06 17:42:40,039 - INFO - 7. Build a LSTM Regression model to predict the next sale
+2023-09-06 17:42:40,039 - INFO - 7. Build a LSTM Regression model to predict the next sale
+2023-09-06 17:42:40,039 - INFO - 7. Build a LSTM Regression model to predict the next sale
+2023-09-06 17:42:40,045 - INFO - Save the Model into h5
+2023-09-06 17:42:40,045 - INFO - Save the Model into h5
+2023-09-06 17:42:40,045 - INFO - Save the Model into h5
+2023-09-06 17:42:40,086 - INFO - End
+2023-09-06 17:42:40,086 - INFO - End
+2023-09-06 17:42:40,086 - INFO - End
