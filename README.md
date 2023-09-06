@@ -48,3 +48,9 @@ Tasks done....
  
 23. Daily Customers Trend for Each Year
 
+##Task-2 Prediction of store sales
+2.1.1 Data preprocessing
+2.1.2 Extracting year, month, day, and week of the year in both train and test data
+2.1.3 Converting Categorical data into numerical data
+2.1.4 Created train and test splits the right way for time series data
+2.1.5 Predict the model with Random Forest Regressor and find out the prediction score
