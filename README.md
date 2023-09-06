@@ -49,12 +49,40 @@ Tasks done....
 23. Daily Customers Trend for Each Year
 
 # Task-2 Prediction of store sales
-2.1.1 Data preprocessing
 
-2.1.2 Extracting year, month, day, and week of the year in both train and test data
+  2.1.1 Data preprocessing
 
-2.1.3 Converting Categorical data into numerical data
+  2.1.2 Extracting year, month, day, and week of the year in both train and test data
 
-2.1.4 Created train and test splits the right way for time series data
+  2.1.3 Converting Categorical data into numerical data
 
-2.1.5 Predict the model with Random Forest Regressor and find out the prediction score
+  2.1.4 Created train and test splits the right way for time series data
+
+  2.1.5 Predict the model with Random Forest Regressor and find out the prediction score
+
+2.2 - Building models with sklearn pipelines  
+
+  2.2.1 Creating a pipeline where the data is first scaled before model training
+
+2.3 - Choose a loss function  
+
+2.4 Post-Prediction analysis
+
+2.5 Serialization done for easy tracking of prediction which have good score, Save the Model into a pickle file
+
+Task 2.6 - Building model with Deep Learning
+   
+   2.6.1. Isolate the Rossmann Store Sales dataset into time series data
+
+3. Differenced the sales data
+   
+4. Check for autocorrelation and partial autocorrelation of data
+ 
+5. Transform the time series data into supervised learning data by creating a new y(target) column
+
+6. Build a LSTM Regression model to predict the next sale
+
+7. Save the Model into h5
+
+End....
+
